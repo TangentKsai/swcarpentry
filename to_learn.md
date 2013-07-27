@@ -1,9 +1,15 @@
 Things we are learning at SWC
 =============================
 
+==========================
 City of birth: Tokyo
-=======
+
 City of birth: China
+
+City of birth: Chinarerer
+==========================
+
+hcac
 
 * shell
 ** ls
