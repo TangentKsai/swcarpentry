@@ -1,9 +1,8 @@
 Things we are learning at SWC
 =============================
-City of birth:
----------
-Changhua
+City of birth: China
 
+hcac
 * shell
 ** ls
 ** cat
