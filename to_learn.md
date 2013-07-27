@@ -1,6 +1,6 @@
 Things we are learning at SWC
 =============================
-City of birth:
+City of birth: Tokyo
 * shell
 ** ls
 ** cat
@@ -13,3 +13,4 @@ City of birth:
 ** Atomic commits.
 
 abcd
+
