@@ -1,6 +1,6 @@
 Things we are learning at SWC
 =============================
-
+City of birth:
 * shell
 ** ls
 ** cat
