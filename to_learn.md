@@ -1,6 +1,6 @@
 Things we are learning at SWC
 =============================
-City of birth:
+City of birth: China
 * shell
 ** ls
 ** cat
