@@ -1,10 +1,10 @@
 Things we are learning at SWC
 =============================
-
+<<<<<<< HEAD
 City of birth: Tokyo
 =======
 City of birth: China
-
+>>>>>>> FETCH_HEAD
 * shell
 ** ls
 ** cat
